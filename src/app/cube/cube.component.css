@@ -1,0 +1,8 @@
+:host {
+  display: block;
+  min-width: 30px;
+  min-height: 30px;
+  max-width: 30px;
+  max-height: 30px;
+  background-color: black;
+}

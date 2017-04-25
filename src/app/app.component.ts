@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import {CubeComponent} from './cube/cube.component';
+
 
 @Component({
   selector: 'app-root',
@@ -6,5 +8,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app works!';
+  title = 'cloak-focus';
+
 }
